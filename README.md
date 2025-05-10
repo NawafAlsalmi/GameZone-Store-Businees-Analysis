@@ -22,7 +22,7 @@ This project visualizes and analyzes GameZone's store order data using Power BI.
 
 ## 📊 Dashboard Preview
 
-![GameZone Dashboard](assets/GameZone_Dashboard.png)
+![GameZone Dashboard](GameZone_Dashboard.png)
 
 ## 🔧 Technologies Used
 - Power BI
